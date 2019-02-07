@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\san34\desktop\2017_fall\cse5542\hw3\hw3\hw3\main.cpp(5): fatal error C1083: Cannot open include file: 'GL/glew.h': No such file or directory
